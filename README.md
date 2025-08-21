@@ -4,11 +4,11 @@ The project involves building a system with two Arduinos for presence detection 
 
 The project may include:
 
-Creating datasets for presence detection and keyword recognition
+- Creating datasets for presence detection and keyword recognition
 
-Documenting the process on GitHub
+- Documenting the process on GitHub
 
-Using tools like Weights & Biases for tracking
+- Using tools like Weights & Biases for tracking
 
 Optional: experimenting with federated learning between the two devices
 
