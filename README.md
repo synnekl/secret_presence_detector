@@ -12,4 +12,6 @@ The project includes:
 Files in this GitHub include: 
 - MLOps_DTU_secrets_WAV.zip: a zip-folder containing  99 .wav files of 1s 1600 hz audioclips of the word "secret" by different people
 - speech_recognition.ipynb: Code for training key word recognition model from the new dataset and two public datasets and compressiong to a 8bit tflite model. The model is based on https://ai.google.dev/edge/litert/libraries/modify/speech_recognition
-- 
+- sound_stream_v1:Arduino C++ code for recording audio from the built-in microphone on an Arduino Nano 33 BLE Sense rev2 and sending the audio samples over to a computer.
+- sound_stream_v2: Similar to v1, but it adds a gesture sensor (APDS-9960) to control the audio streaming.
+- serial2WAV.py: Converts the serial recorded by the arduino to 2s .WAV-files
