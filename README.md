@@ -11,5 +11,5 @@ The project includes:
 
 Files in this GitHub include: 
 - MLOps_DTU_secrets_WAV.zip: a zip-folder containing  99 .wav files of 1s 1600 hz audioclips of the word "secret" by different people
-- speech_recognition.ipynb: Code for training key word recognition model from the new dataset and two public datasets and compressiong to a 8bit tflite model
+- speech_recognition.ipynb: Code for training key word recognition model from the new dataset and two public datasets and compressiong to a 8bit tflite model. The model is based on https://ai.google.dev/edge/litert/libraries/modify/speech_recognition
 - 
